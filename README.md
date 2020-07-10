@@ -1,8 +1,8 @@
 # Robert San 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robertsanseries)](https://github.com/monteiro-alexandre)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertsanseries/)](https://www.linkedin.com/in/alexandre-monteiro-9a03371a5/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertsanseries@gmail.com)](mailto:alexandre.monteiro.bec@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robertsanseries)](https://github.com/robertsanseries)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertsanseries/)](https://www.linkedin.com/in/robertsanseries/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertsanseries@gmail.com)](mailto:robertsanseries@gmail.com)
 
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
