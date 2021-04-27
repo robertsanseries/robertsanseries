@@ -10,6 +10,6 @@
 My name is Robert and I'm Web developer. Enthusiastic about new technologies in software development. Always looking for new knowledge, with main focus on studies in java technologies.
 
 - :office_worker: I’m currently working at Montreal Informática S.A .
-- 💻 I’m currently learning Angular, ReactJs, VueJS and NodeJS.
+- 💻 I’m currently learning Angular and VueJS.
 - :books: Reading the Clean Code Book, to improve my skills in writing good codes.
 - 🎓 Computer student
